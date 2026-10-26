@@ -1,0 +1,1 @@
+} ; javac -cp target/classes Check.java ; java -cp target/classes;. Check
